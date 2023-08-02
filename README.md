@@ -8,4 +8,4 @@ I've started with analyzing the popularity of various Lego sets and themes using
 The goal is to understand the history of Lego blocks.
 # Data Source
 The data is available as csv files @ [Rebrickable](https://rebrickable.com/downloads/)
-## Please checkout the complete project@ [Lego-World](https://github.com/Sujataba/PythonProject-AdeepdiveintoLegoWorld/blob/ProjectPortfolio/LegoNotebook.pdf)
+## Please checkout the complete project@ [Lego-World](https://sujataba.github.io/Portfolio/LegoNotebook.html)
